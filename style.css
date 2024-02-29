@@ -1,0 +1,9 @@
+#container{
+    display: flex;
+    justify-content: space-between;
+}
+#container2{
+    display: flex;
+    justify-content: space-around;
+    font-weight: 800;
+}
